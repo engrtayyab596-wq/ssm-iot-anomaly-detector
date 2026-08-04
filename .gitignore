@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+*.env
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Data
+data/
+
+# VS Code
+.vscode/
+
+models/
+notebooks/mlruns/
+notebooks/mlflow.db
+__pycache__/
+*.png
+
+# Database
+*.db
