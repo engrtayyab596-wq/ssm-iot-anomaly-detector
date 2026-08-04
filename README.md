@@ -311,4 +311,8 @@ Then open: http://127.0.0.1:5000
 ## Author
 
 Tayyab
+<<<<<<< HEAD
 ML/AI Enginee
+=======
+ML/AI Engineer
+>>>>>>> 3c83d4fa27930bb91b30eb85e1c7cadfe834319d
